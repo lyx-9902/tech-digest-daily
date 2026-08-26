@@ -1,322 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-24T23:12:11.238402",
+  "last_updated": "2026-08-26T03:10:56.896950",
   "sent_items": {
-    "95fc50816c04ac20": {
-      "date": "2026-07-25",
-      "title": "Wisprkey",
-      "source": "producthunt"
-    },
-    "c9869707dc98f592": {
-      "date": "2026-07-25",
-      "title": "Islet",
-      "source": "producthunt"
-    },
-    "9c85e1ad701479ac": {
-      "date": "2026-07-25",
-      "title": "FluentDB",
-      "source": "producthunt"
-    },
-    "aa37f02ebba86789": {
-      "date": "2026-07-25",
-      "title": "Heard",
-      "source": "producthunt"
-    },
-    "98666d28c144442a": {
-      "date": "2026-07-25",
-      "title": "ADE",
-      "source": "producthunt"
-    },
-    "ea36c9efa0105c60": {
-      "date": "2026-07-25",
-      "title": "OpenComputer",
-      "source": "producthunt"
-    },
-    "36ea64e3c3a4f903": {
-      "date": "2026-07-25",
-      "title": "ShellMate",
-      "source": "producthunt"
-    },
-    "ac71da6de14196dc": {
-      "date": "2026-07-25",
-      "title": "Stolen Buttons",
-      "source": "hackernews"
-    },
-    "ee13eda5a3ab314b": {
-      "date": "2026-07-25",
-      "title": "Did They Ghost You?",
-      "source": "hackernews"
-    },
-    "9b29631a6a5adf30": {
-      "date": "2026-07-25",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "source": "hackernews"
-    },
-    "d0177a1324b4d592": {
-      "date": "2026-07-25",
-      "title": "Show HN: I made some transistor animations",
-      "source": "hackernews"
-    },
-    "3f9700fa5caa4f44": {
-      "date": "2026-07-25",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "source": "hackernews"
-    },
-    "39dd863f3ac88790": {
-      "date": "2026-07-25",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "source": "hackernews"
-    },
-    "faa38b3e99b7f423": {
-      "date": "2026-07-25",
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "source": "hackernews"
-    },
-    "c28024dfea702fee": {
-      "date": "2026-07-25",
-      "title": "General Resolution: LLM Usage in Debian",
-      "source": "hackernews"
-    },
-    "5af2ccc1952b21be": {
-      "date": "2026-07-25",
-      "title": "SIMD for Collision",
-      "source": "hackernews"
-    },
-    "f333e5be58514bbb": {
-      "date": "2026-07-25",
-      "title": "Multicast TV Distribution on My Home Network",
-      "source": "hackernews"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-07-25",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "609b77217e47447a": {
-      "date": "2026-07-25",
-      "title": "permissionlesstech / bitchat",
-      "source": "github"
-    },
-    "fa7a24d15387e004": {
-      "date": "2026-07-25",
-      "title": "palmier-io / palmier-pro",
-      "source": "github"
-    },
-    "e9c563ceb650198f": {
-      "date": "2026-07-25",
-      "title": "The Crash That Only Happened Sometimes — A SwiftUI Bug",
-      "source": "devto"
-    },
-    "8bc08fb58ef14192": {
-      "date": "2026-07-25",
-      "title": "I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru",
-      "source": "devto"
-    },
-    "fca3ad64454ea4bc": {
-      "date": "2026-07-25",
-      "title": "🐈‍⬛Check Out Catbot's New Leg!",
-      "source": "devto"
-    },
-    "77d776c6ddce773c": {
-      "date": "2026-07-25",
-      "title": "389 Tests Passed. NIST Still Caught the Bug.",
-      "source": "devto"
-    },
-    "7df733b4e9820b0e": {
-      "date": "2026-07-25",
-      "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side con",
-      "source": "devto"
-    },
-    "75272eb55b835108": {
-      "date": "2026-07-25",
-      "title": "Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyberdeck",
-      "source": "devto"
-    },
-    "05c9659cc2e15552": {
-      "date": "2026-07-25",
-      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
-      "source": "devto"
-    },
-    "624d74caa930a954": {
-      "date": "2026-07-25",
-      "title": "We instrumented an AI agent swarm with SigNoz, and its own telemetry told us we were wrong about alm",
-      "source": "devto"
-    },
-    "6e75403927d22041": {
-      "date": "2026-07-25",
-      "title": "How to structure CLAUDE.md, Skills and Agents",
-      "source": "devto"
-    },
-    "42935df782f9b5e1": {
-      "date": "2026-07-25",
-      "title": "Building a real-time Crystal app with Kemal — where privacy is a server invariant",
-      "source": "devto"
-    },
-    "ff02f88490955ea8": {
-      "date": "2026-07-26",
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "source": "hackernews"
-    },
-    "06d8e97a7fcf509b": {
-      "date": "2026-07-26",
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "source": "hackernews"
-    },
-    "04a1803c5810b3f2": {
-      "date": "2026-07-26",
-      "title": "Design is compromise",
-      "source": "hackernews"
-    },
-    "74fa33b5f6bf39bb": {
-      "date": "2026-07-26",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "source": "hackernews"
-    },
-    "049f9ba83c8dcdc7": {
-      "date": "2026-07-26",
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "source": "hackernews"
-    },
-    "67785b3afcbb02f8": {
-      "date": "2026-07-26",
-      "title": "How to Block Some of the Bots",
-      "source": "hackernews"
-    },
-    "cc44ef51c68f5eb2": {
-      "date": "2026-07-26",
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "source": "hackernews"
-    },
-    "8b680fbb72f39332": {
-      "date": "2026-07-26",
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "source": "hackernews"
-    },
-    "f7fc0063c1d35180": {
-      "date": "2026-07-26",
-      "title": "Teaching Kids Forth",
-      "source": "hackernews"
-    },
-    "3289bfde62d22538": {
-      "date": "2026-07-26",
-      "title": "Japan legend Miura, 59, scores first goal since 2022",
-      "source": "hackernews"
-    },
-    "8d78e4872bcccc5c": {
-      "date": "2026-07-26",
-      "title": "PureBox.ai",
-      "source": "producthunt"
-    },
-    "681a79c22ee9955b": {
-      "date": "2026-07-26",
-      "title": "Aymo AI",
-      "source": "producthunt"
-    },
-    "dd15ee2cc6a450f9": {
-      "date": "2026-07-26",
-      "title": "SF Apartment Finder",
-      "source": "producthunt"
-    },
-    "369e98d5758f84fb": {
-      "date": "2026-07-26",
-      "title": "TouchGrass",
-      "source": "producthunt"
-    },
-    "5601a7acba4cab12": {
-      "date": "2026-07-26",
-      "title": "BrainFeed",
-      "source": "producthunt"
-    },
-    "670763f491a203a6": {
-      "date": "2026-07-26",
-      "title": "yatta!",
-      "source": "producthunt"
-    },
-    "e9e9bcdb60b25401": {
-      "date": "2026-07-26",
-      "title": "KeyOpera 2.0",
-      "source": "producthunt"
-    },
-    "3589e4ac3c794425": {
-      "date": "2026-07-26",
-      "title": "Pulse Island",
-      "source": "producthunt"
-    },
-    "9fe4c4d60a39269c": {
-      "date": "2026-07-26",
-      "title": "Como eu venci o medo da transição de carreira",
-      "source": "devto"
-    },
-    "1c91e4c0d846efc4": {
-      "date": "2026-07-26",
-      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
-      "source": "devto"
-    },
-    "ff219a09f8e71d4c": {
-      "date": "2026-07-26",
-      "title": "Your JSON Array Was Streaming All Along",
-      "source": "devto"
-    },
-    "2f465368e0420efc": {
-      "date": "2026-07-26",
-      "title": "No backend, no database, no network calls. I still found 3 security holes.",
-      "source": "devto"
-    },
-    "4a24bc6a4d20109b": {
-      "date": "2026-07-26",
-      "title": "PWAs Cache Resources. Spirit Installs an Application.",
-      "source": "devto"
-    },
-    "e190d03b43ad9755": {
-      "date": "2026-07-26",
-      "title": "One Task.Run Quietly Killed the BackgroundService Startup Footgun",
-      "source": "devto"
-    },
-    "5e1e3cf8095d0d62": {
-      "date": "2026-07-26",
-      "title": "600 Filters and a 414: The New QUERY Method in .NET 10",
-      "source": "devto"
-    },
-    "030fff06fda00b51": {
-      "date": "2026-07-26",
-      "title": "Don't Wait. Fork It.",
-      "source": "devto"
-    },
-    "3ad51fdb3b4c6789": {
-      "date": "2026-07-26",
-      "title": "I Built an Autonomous On-Chain Agent on Solana: Here's the Documentation I Wish I Had Earlier",
-      "source": "devto"
-    },
-    "d276d7bf4f78d446": {
-      "date": "2026-07-26",
-      "title": "What You Can Do With C#",
-      "source": "devto"
-    },
-    "a2c9c4617f9b3de5": {
-      "date": "2026-07-26",
-      "title": "nodejs / node",
-      "source": "github"
-    },
-    "37ec76a5f2bf0780": {
-      "date": "2026-07-26",
-      "title": "OtterMind / Chat2DB",
-      "source": "github"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-07-26",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
-    "b627289da26ad7fd": {
-      "date": "2026-07-26",
-      "title": "andrewyng / aisuite",
-      "source": "github"
-    },
-    "5ca71ebd0783a4d9": {
-      "date": "2026-07-26",
-      "title": "permissionlesstech / bitchat-android",
-      "source": "github"
-    },
     "2dfce8db0dbc7a27": {
       "date": "2026-07-27",
       "title": "Our position on open-weights models",
@@ -5070,6 +4755,166 @@
     "43d43a131b0529aa": {
       "date": "2026-08-24",
       "title": "tashfeenahmed / freellmapi",
+      "source": "github"
+    },
+    "9e0dcfcc964536c1": {
+      "date": "2026-08-26",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "source": "hackernews"
+    },
+    "a6b88a221f756f8d": {
+      "date": "2026-08-26",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "source": "hackernews"
+    },
+    "8730cf242787ebbc": {
+      "date": "2026-08-26",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "source": "hackernews"
+    },
+    "6456d0ae7e6df109": {
+      "date": "2026-08-26",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "source": "hackernews"
+    },
+    "d1594e345d64f317": {
+      "date": "2026-08-26",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "source": "hackernews"
+    },
+    "b93f46aba1a0b52e": {
+      "date": "2026-08-26",
+      "title": "Black hole singularity is a surface not a point",
+      "source": "hackernews"
+    },
+    "d2a3f6279c26b586": {
+      "date": "2026-08-26",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "source": "hackernews"
+    },
+    "b1b0b8151c982630": {
+      "date": "2026-08-26",
+      "title": "The brain may be about to have its Ozempic moment",
+      "source": "hackernews"
+    },
+    "3245646118f69dd3": {
+      "date": "2026-08-26",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "source": "hackernews"
+    },
+    "18e2ddcdb7ddc53a": {
+      "date": "2026-08-26",
+      "title": "Queryable Executables",
+      "source": "hackernews"
+    },
+    "c3e37d9dc3e4bb3e": {
+      "date": "2026-08-26",
+      "title": "Agnost AI",
+      "source": "producthunt"
+    },
+    "6f63774bc0f88997": {
+      "date": "2026-08-26",
+      "title": "Assistly",
+      "source": "producthunt"
+    },
+    "387c1c5fdc8e805c": {
+      "date": "2026-08-26",
+      "title": "Flare",
+      "source": "producthunt"
+    },
+    "8cc7f6621cab6bc8": {
+      "date": "2026-08-26",
+      "title": "Diet Claude",
+      "source": "producthunt"
+    },
+    "8459132460070173": {
+      "date": "2026-08-26",
+      "title": "session-indexer",
+      "source": "producthunt"
+    },
+    "c380e4d4119e72ac": {
+      "date": "2026-08-26",
+      "title": "ChatGPT Ad Library",
+      "source": "producthunt"
+    },
+    "9325eeb0504b5ee8": {
+      "date": "2026-08-26",
+      "title": "Buddy Visual Tests",
+      "source": "producthunt"
+    },
+    "9989746b52f1b04b": {
+      "date": "2026-08-26",
+      "title": "Purchase API by Agentcard",
+      "source": "producthunt"
+    },
+    "358ad4e2986a603b": {
+      "date": "2026-08-26",
+      "title": "What Do You Do While AI Codes?",
+      "source": "devto"
+    },
+    "25bbc750d5928577": {
+      "date": "2026-08-26",
+      "title": "A Wider Computer, Not a Bigger One: Modeling AI Inference Across Millions of Homes",
+      "source": "devto"
+    },
+    "87c0147b00415d48": {
+      "date": "2026-08-26",
+      "title": "Your Job Ends at 5. Your Developer Brain Doesn't.",
+      "source": "devto"
+    },
+    "c16fa32a9a25f738": {
+      "date": "2026-08-26",
+      "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
+      "source": "devto"
+    },
+    "79d6f9e9918a289f": {
+      "date": "2026-08-26",
+      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
+      "source": "devto"
+    },
+    "4a8eef51d0daff66": {
+      "date": "2026-08-26",
+      "title": "The Vulnerable Moment",
+      "source": "devto"
+    },
+    "40f30da82801738a": {
+      "date": "2026-08-26",
+      "title": "Nobody tells you the question window is closing",
+      "source": "devto"
+    },
+    "27c02a11cbb13146": {
+      "date": "2026-08-26",
+      "title": "The M5 Ultra Mac Studio: I Did the Math So You Don't Have To",
+      "source": "devto"
+    },
+    "c081bf193368d16c": {
+      "date": "2026-08-26",
+      "title": "Half the Requests Wearing ChatGPT's Name Were Scanning Us for Secrets",
+      "source": "devto"
+    },
+    "ca4eacca76dcef9b": {
+      "date": "2026-08-26",
+      "title": "Software Development After AI",
+      "source": "devto"
+    },
+    "46405393d4f50fd7": {
+      "date": "2026-08-26",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "source": "github"
+    },
+    "40e5b3e975918503": {
+      "date": "2026-08-26",
+      "title": "marin-community / marin",
+      "source": "github"
+    },
+    "2526d3aeeaafdd09": {
+      "date": "2026-08-26",
+      "title": "DietrichGebert / ponytail",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-08-26",
+      "title": "anthropics / claude-plugins-official",
       "source": "github"
     }
   }
